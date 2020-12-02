@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/MonoPosixHelper.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"

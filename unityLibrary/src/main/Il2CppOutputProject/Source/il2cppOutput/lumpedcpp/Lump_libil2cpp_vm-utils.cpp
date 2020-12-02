@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/vm-utils/Debugger.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/vm-utils/NativeDelegateMethodCache.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/vm-utils/VmStringUtils.cpp"

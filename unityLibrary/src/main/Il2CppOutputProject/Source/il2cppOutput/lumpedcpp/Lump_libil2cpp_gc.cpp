@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/BoehmGC.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/GCHandle.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/GarbageCollector.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/NullGC.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/WriteBarrier.cpp"
+#include "/home/julien/Dev/android/android-unity-as-library-sample/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/gc/WriteBarrierValidation.cpp"
